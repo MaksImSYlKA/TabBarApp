@@ -111,10 +111,10 @@
             </objects>
             <point key="canvasLocation" x="-725" y="7"/>
         </scene>
-        <!--Tab Bar Controller-->
+        <!--Tab Bar View Controller-->
         <scene sceneID="QXG-W7-iag">
             <objects>
-                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="y3D-yY-v3s" sceneMemberID="viewController">
+                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="y3D-yY-v3s" customClass="TabBarViewController" customModule="TabBarApp" customModuleProvider="target" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="nvY-0i-Lxk">
                         <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
